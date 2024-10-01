@@ -1,6 +1,7 @@
 clean the house
-code python
 Play with Nivi
 Master oops
 learn AI and javareduce the font size
 go for shopping
+pick up Nivi from school
+fix the todo.txt
